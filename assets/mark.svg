@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title id="title">2JS Detailing mark</title>
+  <rect width="160" height="160" rx="22" fill="#0a0c0e"/>
+  <path d="M26 45h108M26 115h108" stroke="#c5a36a" stroke-width="2" opacity=".8"/>
+  <text x="80" y="98" fill="#f3f0e9" font-family="Arial,sans-serif" font-size="58" font-weight="800" text-anchor="middle" letter-spacing="-5">2JS</text>
+  <circle cx="80" cy="130" r="3" fill="#c5a36a"/>
+</svg>
